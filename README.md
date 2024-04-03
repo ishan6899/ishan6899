@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishan Arora
-- 🌱 I’m currently a Software Developer Analyst at BlackRock
+- 🌱 I’m currently a Software Developer Associate at BlackRock
 - 👀 I am passionate about learning new technolgies and constantly be a better version of myself 
 
 <!---
